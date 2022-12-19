@@ -1,0 +1,72 @@
+html,
+
+
+body 
+
+{
+  
+height: 100%;
+
+
+}
+
+body
+ 
+{
+  
+
+display: -ms-flexbox;
+
+
+  
+display: flex;
+  -ms-flex-align: side;
+ 
+
+
+
+ 
+align-items: center;
+
+
+  
+padding-top: 500px;
+  
+padding-bottom: 500px;
+  
+background-color: #ff6347;
+}
+.
+
+
+inputBox 
+
+{
+  
+width: 1000%;
+
+
+}
+.
+mainWindow 
+{
+  
+ 
+padding:5000px;
+   width: 100%;
+   max-width:800px
+}
+.tbl 
+
+
+{
+  
+margin-top: 50px;
+  margin-bottom: 60px;
+}
+.btnCell 
+{
+  
+margin-right: 5px;
+
+}
